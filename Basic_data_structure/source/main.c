@@ -33,18 +33,6 @@ int main() {
 	printf("This is get data from queue : %d\n", get_data->num);
 
 	
-	// --------------------- pibonacci side ---------------- 
-
-	_pibonacci_t * pibo;
-	pibo = pibonacci_initialization();
-
-	insert_pibonacci(pibo);
-	sum_pibonacci(pibo);
-	print_pibonacci(pibo);
-	print_sum_pibonacci(pibo);
-
-	*/
-
 	// --------------------- Linked list --------------------
 
 
